@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.v("Error code","login in")
-        println("hello android")
+        oahgoejfgowehf khfewh
     }
 }
