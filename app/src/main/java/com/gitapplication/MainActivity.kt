@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.v("Error code","login in")
         println("hello android testing")
-        println("change from master")
+        println("change from experimental")
         println("this line merged from experimental")
     }
 }
