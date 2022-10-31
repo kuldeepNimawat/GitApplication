@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         println("hello android testing")
         println("change from experimental")
         println("this line merged from experimental")
+        println("Hello from your friend")
     }
 }
