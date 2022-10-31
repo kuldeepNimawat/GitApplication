@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.v("Error code","login in")
         println("hello android testing")
-        println("Experimental")
+        println("Experimental Changes 1")
     }
 }
